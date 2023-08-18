@@ -1,6 +1,6 @@
 # XYZ Company
 
-This repository contains a SQL file with a collection of queries designed to extract specific information from a company's database. These queries are useful for performing various analyses and gaining insights into the company's employee data.
+This repository contains a SQL file with a collection of queries designed to extract specific information from the XYZ company's database. These queries are useful for performing various analyses and gaining insights into the company's employee data.
 
 **Queries Included are :**
 
@@ -15,9 +15,11 @@ This repository contains a SQL file with a collection of queries designed to ext
 (v)Employees Reporting to Manager 'Payam'
 
 **Contribution**
+
 If you'd like to contribute by adding more insightful SQL queries or enhancing existing ones, you're welcome to submit a pull request. Your contributions will be highly valued!
 
 **Disclaimer**
+
 Please note that the provided queries in this repository are meant for illustrative purposes and may require adjustments to fit your specific database schema and requirements.
 
 **Enjoy exploring the music database through SQL queries!**
